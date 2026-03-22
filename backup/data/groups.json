@@ -1,0 +1,186 @@
+{
+  "generatedAt": "2026-03-20T12:44:21.226Z",
+  "total": 3,
+  "groups": [
+    {
+      "groupId": "9176300605344420664",
+      "name": "MMC",
+      "info": {
+        "groupId": "9176300605344420664",
+        "name": "MMC",
+        "desc": "",
+        "type": 1,
+        "creatorId": "359867629617598110",
+        "version": "1773999300053",
+        "avt": "https://s120-ava-grp-talk.zadn.vn/3/2/6/3/14/120/678191796db41870fea587616885fb4d.jpg",
+        "fullAvt": "https://ava-grp-talk.zadn.vn/3/2/6/3/14/360/678191796db41870fea587616885fb4d.jpg",
+        "memberIds": [],
+        "adminIds": [
+          "8009347465992207686",
+          "2817603034815564154",
+          "5335997498648032109",
+          "6024931307373526012",
+          "1669731236676931404",
+          "2032412539909151828",
+          "1421614274573344218",
+          "1635389426252288210",
+          "6215915355277074723"
+        ],
+        "currentMems": [],
+        "updateMems": [],
+        "memVerList": [
+          "1635389426252288210_0",
+          "6826850414793381853_0",
+          "1421614274573344218_0",
+          "1669731236676931404_0",
+          "634881825118942127_0",
+          "6361424241239237672_0",
+          "5577225479472062214_0",
+          "1051734906862609144_0",
+          "5641826312517890347_0",
+          "7700432593083401149_0",
+          "4606118159227479948_0",
+          "359867629617598110_0",
+          "1044563540321813791_0",
+          "8009347465992207686_0",
+          "6024931307373526012_0",
+          "6439546829394653245_0",
+          "2817603034815564154_0",
+          "5335997498648032109_0",
+          "6215915355277074723_0",
+          "2032412539909151828_0"
+        ],
+        "admins": [],
+        "hasMoreMember": 0,
+        "subType": 1,
+        "totalMember": 20,
+        "maxMember": 1000,
+        "setting": {
+          "blockName": 0,
+          "signAdminMsg": 1,
+          "addMemberOnly": 1,
+          "setTopicOnly": 1,
+          "enableMsgHistory": 1,
+          "lockCreatePost": 1,
+          "lockCreatePoll": 1,
+          "joinAppr": 1,
+          "bannFeature": 0,
+          "dirtyMedia": 0,
+          "banDuration": 0,
+          "lockSendMsg": 0,
+          "lockViewMember": 0
+        },
+        "createdTime": 1771515497429,
+        "visibility": 0,
+        "globalId": "N0BEFIC9R47B72VAQJVA5JU9VSST22O0",
+        "e2ee": 0,
+        "pendingApprove": {
+          "time": 1774010661172,
+          "uids": null
+        },
+        "extraInfo": {
+          "enable_media_store": 1
+        }
+      },
+      "memVerList": [
+        "1635389426252288210_0",
+        "6826850414793381853_0",
+        "1421614274573344218_0",
+        "1669731236676931404_0",
+        "634881825118942127_0",
+        "6361424241239237672_0",
+        "5577225479472062214_0",
+        "1051734906862609144_0",
+        "5641826312517890347_0",
+        "7700432593083401149_0",
+        "4606118159227479948_0",
+        "359867629617598110_0",
+        "1044563540321813791_0",
+        "8009347465992207686_0",
+        "6024931307373526012_0",
+        "6439546829394653245_0",
+        "2817603034815564154_0",
+        "5335997498648032109_0",
+        "6215915355277074723_0",
+        "2032412539909151828_0"
+      ],
+      "memberCount": 20,
+      "firstSeen": 1773994297925,
+      "profileAt": 1774010661223,
+      "updatedAt": 1774010661223
+    },
+    {
+      "groupId": "2480105366650289419",
+      "name": "Đặng Lịnh, Đặng Văn Lịnh, Xuan Bach",
+      "info": {
+        "groupId": "2480105366650289419",
+        "name": "Đặng Lịnh, Đặng Văn Lịnh, Xuan Bach",
+        "desc": "",
+        "type": 1,
+        "creatorId": "6024931307373526012",
+        "version": "1773829101836",
+        "avt": "",
+        "fullAvt": "",
+        "memberIds": [],
+        "adminIds": [
+          "634881825118942127"
+        ],
+        "currentMems": [],
+        "updateMems": [],
+        "memVerList": [
+          "6024931307373526012_0",
+          "634881825118942127_0"
+        ],
+        "admins": [],
+        "hasMoreMember": 0,
+        "subType": 0,
+        "totalMember": 2,
+        "maxMember": 1000,
+        "setting": {
+          "blockName": 0,
+          "signAdminMsg": 1,
+          "addMemberOnly": 0,
+          "setTopicOnly": 0,
+          "enableMsgHistory": 1,
+          "lockCreatePost": 0,
+          "lockCreatePoll": 0,
+          "joinAppr": 0,
+          "bannFeature": 0,
+          "dirtyMedia": 0,
+          "banDuration": 0,
+          "lockSendMsg": 0,
+          "lockViewMember": 0
+        },
+        "createdTime": 1773696738225,
+        "visibility": 0,
+        "globalId": "CCJ2EBB4DAK5SPMH76HN5ORB7Q26RI00",
+        "e2ee": 0,
+        "pendingApprove": {
+          "time": 1774010661168,
+          "uids": null
+        },
+        "extraInfo": {
+          "enable_media_store": 1
+        }
+      },
+      "memVerList": [
+        "6024931307373526012_0",
+        "634881825118942127_0"
+      ],
+      "memberCount": 2,
+      "firstSeen": 1773994297924,
+      "profileAt": 1774010661222,
+      "updatedAt": 1774010661222
+    },
+    {
+      "groupId": "TEST_GROUP_123",
+      "name": "",
+      "info": null,
+      "memVerList": null,
+      "memberCount": 0,
+      "firstSeen": 1774009252096,
+      "profileAt": 0,
+      "updatedAt": 1774009252103
+    }
+  ]
+}
